@@ -1,0 +1,8 @@
+# ninja log v6
+4	105	7987048978233947	ProyectoQt_autogen/timestamp	f1fe06477c5c9704
+4	105	7987048978233947	ProyectoQt_autogen/mocs_compilation.cpp	f1fe06477c5c9704
+4	105	7987048978233947	C:/Users/aaron/Documents/QtDesignStudio/conejo/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/ProyectoQt_autogen/timestamp	f1fe06477c5c9704
+4	105	7987048978233947	C:/Users/aaron/Documents/QtDesignStudio/conejo/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/ProyectoQt_autogen/mocs_compilation.cpp	f1fe06477c5c9704
+107	144	7987048978620568	CMakeFiles/ProyectoQt.dir/ProyectoQt_autogen/mocs_compilation.cpp.obj	f77c3766deb5aefd
+109	2229	7987048978640573	CMakeFiles/ProyectoQt.dir/main.cpp.obj	33f7b3a2287f5ec6
+2231	2490	7987048999849647	ProyectoQt.exe	d87ed3fcc42d8fe0
